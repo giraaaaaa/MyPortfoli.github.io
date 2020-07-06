@@ -84,7 +84,7 @@ export const Banner00DataSource = {
         <Texty style={
             {  textAlign: "center",
             color: "#fff"}}>
-            {'React Devloper 이길하'}
+            {'React Devloper'}
         </Texty>
       </div>
     // children: <content>{Demo}</content>
