@@ -80,13 +80,12 @@ export const Banner00DataSource = {
     // children: 'https://zos.alipayobjects.com/rmsportal/HqnZZjBjWRbjyMr.png',
     children:  <div className="texty-demo" style={{ 
       marginTop: 16,
-      fontSize: 120 }}>
-     
+      fontSize: 100 }}>
         <Texty style={
             {  textAlign: "center",
-            color: "#fff"
-          }}>
-            {'React Devloper 이길하'}</Texty>
+            color: "#fff"}}>
+            {'React Devloper 이길하'}
+        </Texty>
       </div>
     // children: <content>{Demo}</content>
   },
